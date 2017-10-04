@@ -20,5 +20,5 @@ public class HelloResource {
 		return "secured hello";
 	}
 	
-
+//test comment
 }
